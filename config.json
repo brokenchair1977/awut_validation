@@ -1,7 +1,4 @@
 {
-  "outputs": {
-    "leptons_json": "results/lepton_ratios.json"
-  },
   "awut_constants": {
     "K_s": null,
     "C_kappa": null,
@@ -10,11 +7,13 @@
     "lambda0": null,
     "xi0": null
   },
-  "targets": {
-    "mu_over_e": 206.768283,
-    "tau_over_e": 3477.48
+  "rotation_curves": {
+    "V0_global": 120.0
   },
-  "thresholds": {
-    "lepton_ratio_relerr_strict": 0.01
+  "atomic": {
+    "R_infinity_per_m": 10973731.56816
+  },
+  "cmb": {
+    "Lc_lowell": 8.0
   }
 }
