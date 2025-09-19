@@ -1,4 +1,4 @@
-# AWUT Validation Pack (v3)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17162645.svg)](https://doi.org/10.5281/zenodo.17162645)# AWUT Validation Pack (v3)
 **Date:** 2025-09-19
 
 This is a clean, GUI-friendly reproducibility scaffold for AWUT. 
