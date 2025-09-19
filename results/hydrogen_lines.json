@@ -1,0 +1,38 @@
+{
+  "status": "OK",
+  "R_infinity_per_m": 10973731.56816,
+  "lines": [
+    {
+      "series": "Lyman",
+      "n": 2,
+      "lambda_nm_ref": 121.567,
+      "lambda_nm_awut": 121.50227341098497,
+      "rel_error": 0.0005324355212765283
+    },
+    {
+      "series": "Lyman",
+      "n": 3,
+      "lambda_nm_ref": 102.572,
+      "lambda_nm_awut": 102.5175431905186,
+      "rel_error": 0.0005309130121417949
+    },
+    {
+      "series": "Balmer",
+      "n": 3,
+      "lambda_nm_ref": 656.281,
+      "lambda_nm_awut": 656.112276419319,
+      "rel_error": 0.00025709045466955387
+    },
+    {
+      "series": "Balmer",
+      "n": 4,
+      "lambda_nm_ref": 486.133,
+      "lambda_nm_awut": 486.0090936439399,
+      "rel_error": 0.00025488159836938436
+    }
+  ],
+  "summary": {
+    "mean_rel_error": 0.0003938301466143154,
+    "max_rel_error": 0.0005324355212765283
+  }
+}
