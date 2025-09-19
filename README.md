@@ -13,3 +13,4 @@ Use GitHub Desktop to publish; no terminal needed to set up.
 - figs/ — plots (generated)
 - config.json — paths and thresholds
 - RUN_ALL.md — one-command instructions (when you’re ready to run code)
+📄 AWUT Paper (PDF): [awuttimerails3.pdf](awuttimerails3.pdf)
