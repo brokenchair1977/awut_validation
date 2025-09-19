@@ -1,0 +1,20 @@
+{
+  "datasets": {
+    "sparc_csv": "data/SPARC_Lelli2016c.csv",
+    "planck_lowell_csv": "data/Planck_lowell_TT.csv"
+  },
+  "outputs": {
+    "leptons_json": "results/lepton_ratios.json",
+    "sparc_json": "results/sparc_rotation_results.json",
+    "cmb_json": "results/cmb_lowell_results.json",
+    "bh_json": "results/bh_entropy_results.json",
+    "scorecard_csv": "results/scorecard.csv"
+  },
+  "thresholds": {
+    "lepton_ratio_relerr_strict": 0.01,
+    "sparc_r2_mean_pass": 0.9,
+    "cmb_dchi2_pass": -6.0,
+    "bh_c_target": 0.25,
+    "bh_c_tol": 0.02
+  }
+}
